@@ -1,0 +1,34 @@
+🛡️ Privacy Policy for Rembot
+Rembot collects and processes selected Discord user data exclusively to generate activity statistics, personalize interactions, and provide community features.
+________________________________________
+🧠 What data is collected:
+System data:
+•	Number of messages sent (content not stored),
+•	Game activity (duration per game),
+•	Voice channel presence (duration),
+•	Stream and camera session durations,
+•	Number of reactions and commands used,
+•	Server join date,
+•	Online time.
+User content (optional):
+•	Texts submitted by users (e.g., descriptions, quotes, statuses) — marked as public on the server. No user ID is stored.
+•	Images submitted by users — publicly visible on the server if marked as such. No user ID is stored.
+Rembot does not record or store any voice communication or audio files.
+________________________________________
+🔐 Data visibility and privacy:
+Public data (aggregated per server):
+•	Camera, stream, and voice activity durations, total online time,
+•	Total number of messages, reactions, and commands,
+•	Publicly submitted texts and images.
+Private data:
+•	Session details, personal settings, individual interaction data,
+•	Accessible only by the bot developer and the user they relate to.
+Users can individually:
+•	Opt in or out of community summary stats,
+•	Disable bot mentions (pings),
+•	Fully disable all tracking and interaction from the bot.
+________________________________________
+💾 Data storage:
+•	All data is stored on a private server maintained by the bot developer.
+•	General data is retained for up to 12 months.
+•	If the bot is removed from a server, that server’s data is retained for 7 days for recovery purposes and then permanently deleted.
