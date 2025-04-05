@@ -86,5 +86,5 @@
 
 ---
 
-📬 Contact: [your-email@example.com]  
-🔧 Bot Developer: [TheRimo#xxxx]
+📬 Contact: [rembot2221@gmail.com]  
+🔧 Bot Developer: [TheRimo]
